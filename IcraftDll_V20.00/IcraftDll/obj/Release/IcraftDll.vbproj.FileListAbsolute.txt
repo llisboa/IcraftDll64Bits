@@ -1,0 +1,13 @@
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\IcraftDll_V20.00\IcraftDll\bin\Debug\Icraft.dll.config
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\IcraftDll_V20.00\IcraftDll\bin\Debug\Icraft.dll
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\IcraftDll_V20.00\IcraftDll\bin\Debug\Icraft.pdb
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\IcraftDll_V20.00\IcraftDll\bin\Debug\Icraft.xml
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\IcraftDll_V20.00\IcraftDll\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\IcraftDll_V20.00\IcraftDll\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\IcraftDll_V20.00\IcraftDll\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\IcraftDll_V20.00\IcraftDll\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\IcraftDll_V20.00\IcraftDll\obj\Release\Resources.resources
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\IcraftDll_V20.00\IcraftDll\obj\Release\IcraftDll.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\IcraftDll_V20.00\IcraftDll\obj\Release\Icraft.dll
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\IcraftDll_V20.00\IcraftDll\obj\Release\Icraft.xml
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\IcraftDll_V20.00\IcraftDll\obj\Release\Icraft.pdb
