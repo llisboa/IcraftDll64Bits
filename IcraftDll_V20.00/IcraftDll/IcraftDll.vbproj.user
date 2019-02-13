@@ -21,4 +21,14 @@
   <PropertyGroup>
     <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <StartProgram>C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\CiadWeb_V03.07\CiadWeb\bin\Debug\CIADWEB.EXE</StartProgram>
+    <StartURL>http://localhost:10362/Yenzah/</StartURL>
+    <EnableSQLServerDebugging>true</EnableSQLServerDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <StartProgram>C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\CiadWeb_V03.07\CiadWeb\bin\Debug\CIADWEB.EXE</StartProgram>
+    <StartURL>http://localhost:10362/Yenzah/</StartURL>
+    <EnableSQLServerDebugging>true</EnableSQLServerDebugging>
+  </PropertyGroup>
 </Project>
