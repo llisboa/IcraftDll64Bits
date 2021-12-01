@@ -1,0 +1,12 @@
+C:\Repositorio\NHReverseMySQL\IcraftDLL64Bits\IcraftDll_64bits\IcraftDll\bin\Debug\Icraft.dll.config
+C:\Repositorio\NHReverseMySQL\IcraftDLL64Bits\IcraftDll_64bits\IcraftDll\bin\Debug\Icraft.dll
+C:\Repositorio\NHReverseMySQL\IcraftDLL64Bits\IcraftDll_64bits\IcraftDll\bin\Debug\Icraft.pdb
+C:\Repositorio\NHReverseMySQL\IcraftDLL64Bits\IcraftDll_64bits\IcraftDll\bin\Debug\Icraft.xml
+C:\Repositorio\NHReverseMySQL\IcraftDLL64Bits\IcraftDll_64bits\IcraftDll\bin\Debug\Icraft.dll.CodeAnalysisLog.xml
+C:\Repositorio\NHReverseMySQL\IcraftDLL64Bits\IcraftDll_64bits\IcraftDll\bin\Debug\Icraft.dll.lastcodeanalysissucceeded
+C:\Repositorio\NHReverseMySQL\IcraftDLL64Bits\IcraftDll_64bits\IcraftDll\obj\Debug\Resources.resources
+C:\Repositorio\NHReverseMySQL\IcraftDLL64Bits\IcraftDll_64bits\IcraftDll\obj\Debug\IcraftDll.vbproj.GenerateResource.cache
+C:\Repositorio\NHReverseMySQL\IcraftDLL64Bits\IcraftDll_64bits\IcraftDll\obj\Debug\IcraftDll.vbproj.CoreCompileInputs.cache
+C:\Repositorio\NHReverseMySQL\IcraftDLL64Bits\IcraftDll_64bits\IcraftDll\obj\Debug\Icraft.dll
+C:\Repositorio\NHReverseMySQL\IcraftDLL64Bits\IcraftDll_64bits\IcraftDll\obj\Debug\Icraft.xml
+C:\Repositorio\NHReverseMySQL\IcraftDLL64Bits\IcraftDll_64bits\IcraftDll\obj\Debug\Icraft.pdb

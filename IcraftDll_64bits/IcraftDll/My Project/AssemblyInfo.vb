@@ -12,8 +12,8 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("Biblioteca de componentes e funções intercraft.")> 
 <Assembly: AssemblyCompany("Intercraft Solutions Informática Ltda.")> 
 <Assembly: AssemblyProduct("IcraftDll")> 
-<Assembly: AssemblyCopyright("Copyright © Intercraft Solutions 2011")> 
-<Assembly: AssemblyTrademark("Intercraft Solutions")> 
+<Assembly: AssemblyCopyright("Copyright © Intercraft Solutions 2011")>
+<Assembly: AssemblyTrademark("Intercraft Solutions")>
 
 <Assembly: ComVisible(False)>
 
